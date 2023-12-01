@@ -1,0 +1,1 @@
+/mnt/experiment2/bonus/os/target/riscv64gc-unknown-none-elf/release/os: /mnt/experiment2/bonus/os/src/console.rs /mnt/experiment2/bonus/os/src/entry.asm /mnt/experiment2/bonus/os/src/lang_items.rs /mnt/experiment2/bonus/os/src/main.rs /mnt/experiment2/bonus/os/src/sbi.rs

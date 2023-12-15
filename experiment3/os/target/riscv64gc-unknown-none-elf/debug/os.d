@@ -1,0 +1,1 @@
+/mnt/experiment2/os/target/riscv64gc-unknown-none-elf/debug/os: /mnt/experiment2/os/src/console.rs /mnt/experiment2/os/src/entry.asm /mnt/experiment2/os/src/lang_items.rs /mnt/experiment2/os/src/main.rs /mnt/experiment2/os/src/sbi.rs

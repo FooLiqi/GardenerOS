@@ -1,0 +1,1 @@
+/mnt/experiment3/user/target/riscv64gc-unknown-none-elf/release/02power: /mnt/experiment3/user/src/bin/02power.rs /mnt/experiment3/user/src/console.rs /mnt/experiment3/user/src/lang_items.rs /mnt/experiment3/user/src/lib.rs /mnt/experiment3/user/src/syscall.rs

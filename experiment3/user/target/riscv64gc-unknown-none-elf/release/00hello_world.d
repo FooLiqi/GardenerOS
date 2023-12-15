@@ -1,0 +1,1 @@
+/mnt/experiment3/user/target/riscv64gc-unknown-none-elf/release/00hello_world: /mnt/experiment3/user/src/bin/00hello_world.rs /mnt/experiment3/user/src/console.rs /mnt/experiment3/user/src/lang_items.rs /mnt/experiment3/user/src/lib.rs /mnt/experiment3/user/src/syscall.rs
